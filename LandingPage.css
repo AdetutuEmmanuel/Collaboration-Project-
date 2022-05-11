@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    max-width: 100%;
+}    
+.all-nav {
+    position: absolute;
+    top: 0px;
+    max-width: 100%;
+    overflow: hidden;
+}
+.middle-nav {
+    margin-right: 150px;
+}
+.end-nav {
+    margin-right: 30px;
+    margin-bottom: 12px;
+}
+.logo {
+    height: 50px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.the-two {
+    display: flex;
+}
+.timo {
+    text-decoration: none;
+}
+.first-div {
+    background-color: grey;
+    text-align: center;
+    position: relative;
+    top: 150px;
+    height: 250px;
+    max-width: 100px;
+}
+.inner-div1 {
+    margin-top: 50px;
+    /* position: absolute; */
+    /* top: 70px; */
+    /* left: 150px; */
+}
+.second-div {
+    position: absolute;
+    top: 500px;
+}
+.third-div {
+    position: absolute;
+    top: 800px;
+}
+.forth-div {
+    position: absolute;
+    top: 1100px;
+}
